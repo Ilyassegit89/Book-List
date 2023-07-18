@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.container{
+    line-height: 2em;
+    padding-inline: 1em;
+    background-color: #eee;
+}
+input{
+    width: 100%;
+}
+input[type="submit"], i{
+    cursor: pointer;
+}
+ thead tr td{
+    width: 33.3%;
+}
+thead{
+    border: 1px solid gray;
+}
